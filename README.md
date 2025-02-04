@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddharth Mishra
 ========================================================================================================================================
 
-Data Scientist | Data Analyst | Machine Learning Engineer | Software developer
+Data Scientist | Software developer
 ------------------------------------
 
 A dedicated Frontend Developer with over 4 years of rich experience sculpting seamless and user-friendly web interfaces using React.js and vanilla JavaScript. Recently graduating with a Masters in Artificial Intelligence from Monash University has fueled my passion for exploring the convergence of AI and frontend development. I'm on a mission to integrate intelligent solutions into the user interface landscape, leveraging the power of AI to enhance user experiences. My commitment to continuous learning drives me to stay abreast of the latest industry trends, eagerly adopting new tools and methodologies. Beyond the keyboard, I find joy in the precision of badminton and the refreshing embrace of swimming. Let's connect, collaborate, and dive into the ever-evolving world of code and AI! 🚀🌐
